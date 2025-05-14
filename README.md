@@ -45,7 +45,7 @@ DoDoodle/
 │ └── script.js # JS if separated (you can add script if you want, I've not attached any)
 ├── README.md
 
-
+(I've not uploaded any classes on which this was trained, due to size constraints)
 
 ---
 
